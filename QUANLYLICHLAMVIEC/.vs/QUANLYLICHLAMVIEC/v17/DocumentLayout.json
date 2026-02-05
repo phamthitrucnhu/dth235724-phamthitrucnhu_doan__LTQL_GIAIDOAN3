@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\forms\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\forms\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\quanlylichlamviec\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\forms\\frmcalam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmcalam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\forms\\frmlichlamviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmlichlamviec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\forms\\frmcalam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\forms\\frmcalam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|c:\\users\\admin\\onedrive\\ltql\\doan_ltql\\quanlylichlamviec\\quanlylichlamviec\\data\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57255D16-46A3-416E-B8EE-F3EB47023939}|QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC.csproj|solutionrelative:quanlylichlamviec\\data\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLichLamViec.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:03:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLichLamViec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs [Design]",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:46:55.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Program.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Program.cs",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:26:35.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCaLam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs [Design]",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:10:32.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCaLam.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmCaLam.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T06:48:45.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAIAwwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T07:20:37.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T04:17:13.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLichLamViec.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.Designer.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.Designer.cs",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Forms\\frmLichLamViec.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:18:05.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Data\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QUANLYLICHLAMVIEC\\Data\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\LTQL\\doan_ltql\\QUANLYLICHLAMVIEC\\QUANLYLICHLAMVIEC\\Data\\NhanVien.cs",
+              "RelativeToolTip": "QUANLYLICHLAMVIEC\\Data\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:39:18.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
